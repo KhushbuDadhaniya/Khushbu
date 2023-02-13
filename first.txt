@@ -3,3 +3,5 @@ Hello Git
 Today's date is 10/02/2023.
 
 This is my 3rd lecture
+
+Hello, How r you?
