@@ -7,3 +7,5 @@ This is my 3rd lecture
 Hello, How r you?
 
 Hi yes updated
+
+todays date is 14th and adding this text from local
